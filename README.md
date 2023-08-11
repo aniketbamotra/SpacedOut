@@ -4,7 +4,7 @@ SpacedOut! is a marketplace for businesses and brands to create greater relation
 
 # Website Link 
 
-https://62a7180589453300081d139a--deft-cannoli-eb482a.netlify.app/
+https://deft-cannoli-eb482a.netlify.app/
 
 # Pre-requisite
 
