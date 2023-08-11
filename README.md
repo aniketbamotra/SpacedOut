@@ -71,7 +71,7 @@ The utility of NFTs on SpacedOut! is determined by the brands themselves. Some p
 
 ## Contributing
 
-SpacedOut! is an open-source project, and we welcome contributions from the community to help us improve and grow the platform. Whether you're a developer or designer, or have ideas to share, your input is valuable. For detailed information on contributing, please refer to the [Contribution Guidelines](CONTRIBUTING.md) in the [GitHub repository](https://github.com/aniketbamotra/SpacedOut) for more information.
+SpacedOut! is an open-source project, and we welcome contributions from the community to help us improve and grow the platform. Whether you're a developer or designer, or have ideas to share, your input is valuable.
 
 ## Contact
 
